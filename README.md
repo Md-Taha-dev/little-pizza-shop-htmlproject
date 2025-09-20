@@ -22,11 +22,8 @@ The website simulates a small pizza shop with multiple pages:
 ---
 
 ## Screenshots
-Include screenshots of your website here (e.g., ![Home Page Screenshot](Images/homepage.jpeg), Images/hourspage.jpeg, `images/contact.png`).
+![Home Page Screenshot](Images/homepage.jpeg), ![Home Page Screenshot](Images/hourspage.jpeg), ![Home Page Screenshot](Images/contactpage.jpeg)
 
 ---
 
-## Usage
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/little-pizza-shop.git
+
