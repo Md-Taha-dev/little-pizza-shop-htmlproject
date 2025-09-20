@@ -22,7 +22,7 @@ The website simulates a small pizza shop with multiple pages:
 ---
 
 ## Screenshots
-Include screenshots of your website here (e.g., `images/homepage.jpeg`, `images/menu.png`, `images/contact.png`).
+Include screenshots of your website here (e.g., `Images/homepage.jpeg`, `images/menu.png`, `images/contact.png`).
 
 ---
 
